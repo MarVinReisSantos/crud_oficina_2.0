@@ -28,15 +28,16 @@ $dbSenha 'senhaDoUsuario'
 ```
 
 ## Imagem da tela Index:
-
+![Resultado final da atividade](https://github.com/MarVinReisSantos/crud_oficina_2.0/blob/main/docs/final-index.png?raw=true)
 ## Imagem da tela Index com Filtro Cliente:
 
 ## Imagem da tela Index com Filtro Vendedor:
 
 ## Imagem da tela Index com Filtro de período de datas:
 
-## Sugestão de Futuras Melhorias:
-- Sistema de login e logout dos funcionários;
+## Sugestões de Melhorias para o projeto:
+- Sistema de login e logout no crud;
+- Nível de acesso ao sistema diferente na conta vendedor e Gerente;
 - Cadastro de novas contas de vendedores na conta Gerente;
 - Remoção de contas de vendedores desligados da empresa na conta Gerente;
 - Implementação de API para envio do orçamento para e-mail do cliente.
