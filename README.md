@@ -1,4 +1,4 @@
-<h2 align="center">Processo Seletivo Codificar - Projeto CRUD Oficina 2.0 em PHP</h2>
+<h1 align="center">Processo Seletivo Codificar - Projeto CRUD Oficina 2.0 em PHP</h1>
 
 ## Ferramentas Bootstrap, PDO e MySQL
 
